@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "lib": [
+            "esnext"
+        ],
+        "moduleResolution": "node",
+        "types": [
+            "lua-types/jit"
+        ],
+        "strict": false
+    },
+    "tstl": {
+        "luaTarget": "JIT",
+        "luaBundle": "C:/ProgramData/731879516100136036/Scripts/NospherAIO/main.lua",
+        "luaBundleEntry": "src/index.ts"
+    }
+}  
